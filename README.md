@@ -1,6 +1,6 @@
 # Applying Program-Comprehension Questions to Graphical Software Models - Literature Review
  
-This repository includes the files accompanying the section 3.1 *Program-Comprehension Questions* of thesis chapter *Applying Program-Comprehension Questions to Graphical Software Models*. The presented information describe ther results of the literature review performed to search for program comprehension questions that can be supported by fact-based models.
+This repository includes the files accompanying the section 3.1 *Program-Comprehension Questions* of the thesis chapter *Applying Program-Comprehension Questions to Graphical Software Models*. The presented information describes the results of the literature review performed to identify program comprehension questions that can be supported by fact-based models.
 
 ## File description
 
