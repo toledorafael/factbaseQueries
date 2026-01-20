@@ -1,12 +1,12 @@
-# Visualizing Analysis Results for Software Product Line Models - A User Study
+# Applying Program-Comprehension Questions to Graphical Software Models - Literature Review
  
-This repository includes the supporting material for the paper "Visualizing Analysis Results for Software Product Line Models - A User Study."
+This repository includes the files accompanying the section 3.1 *Program-Comprehension Questions* of thesis chapter *Applying Program-Comprehension Questions to Graphical Software Models*. The presented information describe ther results of the literature review performed to search for program comprehension questions that can be supported by fact-based models.
 
 ## File description
 
-The sections below explain the folders and files included in this repository.
+The sections below explain the spreadsheet files included in this repository.
 
-### graphProductLine
+<!-- ### graphProductLine
 
 This folder includes the C++ code implementing the Graph Product Line [1,2] and the models extracted from that implementation using the fact extractor Rex<sup>&uarr;</sup> [3]. 
 
@@ -30,7 +30,7 @@ The files in this folder show the interfaces the participants interacted with du
   * *stage2_(controlGroup|treatmentGroup).pdf*: Screenshots of the webpage used during the second stage of the study. Participants in the treatment group were allocated in different subgroups that accessed different versions of this questionnaire, each version would have an distinct sequence of visualization options.
 
 ### rawData
-This folder includes the data recorded during the study and used in statistical tests. Files used for quantitative analysis follow the name convention *scenario_variable.csv*, in which *scenario* describes the task category (identify, compare2, or compare3), the study stage (stage1 or stage 2), or the treatment type (visualizationOption) being tested, and *variable* describes the dependent variable (correctness, efficiency, or mental effort) being recorded. The folder also includes two spreadsheets containing participants demographics information (`demographics.xlsx`) and participants' response to the experience statements and open-ended feedback questions (`participantsFeedback.xlsx`). 
+This folder includes the data recorded during the study and used in statistical tests. Files used for quantitative analysis follow the name convention *scenario_variable.csv*, in which *scenario* describes the task category (identify, compare2, or compare3), the study stage (stage1 or stage 2), or the treatment type (visualizationOption) being tested, and *variable* describes the dependent variable (correctness, efficiency, or mental effort) being recorded. The folder also includes two spreadsheets containing participants demographics information (`demographics.xlsx`) and participants' response to the experience statements and open-ended feedback questions (`participantsFeedback.xlsx`).  -->
 
 ### statisticalTestResults
 The results of the statistical tests using the files from folder `rawData`. Files in this folder follow a similar name convention with the addition of suffixes *_tTest* and *_OneWay Anova* to describe the performed tests.
